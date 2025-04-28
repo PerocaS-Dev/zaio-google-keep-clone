@@ -1,0 +1,20 @@
+# 🎬 Google Keep Clone with JavaScript
+
+## 📌 Project Overview
+
+This is a clone of the google keep app, built using **HTML, CSS and JavaScript**. 
+The goal was to replicate the design, layout and responsiveness.
+
+## 🔗 Netlify link
+
+👉 https://peroca-google-keep-clone.netlify.app/
+
+## 🛠️ Technologies Used
+
+- **HTML5** - Structure & content
+- **CSS3** - Styling & responsiveness
+- **JavaScript** - Resposiveness, rendering and content
+
+## 📂 Project Setup: github
+
+👉 https://github.com/PerocaS-Dev/zaio-google-keep-clone.git
